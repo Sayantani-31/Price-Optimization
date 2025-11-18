@@ -37,17 +37,19 @@ The first phase involves comprehensive data exploration to understand market dyn
 - Identified temporal patterns in sales data
 - Detected peak and off-peak periods
 - Analyzed year-over-year trends
+<img src="Monthly_sales.png" alt="Monthly Sales" width="700" height="400">
 
 #### **Correlation Analysis**
 - Examined relationships between price and demand
 - Investigated feature correlations
 - Identified key drivers of sales performance
+<img src="cor.png" alt="Correlation Result" width="700" height="400">
 
 #### **Regional Analysis**
 - Compared sales performance across different regions
 - Identified regional pricing opportunities
 - Analyzed geographic demand variations
-
+<img src="Region_wise_sales.png" alt="Region wise Sales" width="700" height="400">
 ---
 
 ### **Part 2: Demand Forecasting**
